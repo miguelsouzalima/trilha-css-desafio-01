@@ -94,5 +94,10 @@ h2 {
     border-radius: 30px;
   }
   
-/**/
+/*Alinhando a section "cpurse-content" para o meio da página*/
+
+#course-content .modules-list {
+    margin: 24px 0;
+  }
+  
   
