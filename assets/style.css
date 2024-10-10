@@ -94,10 +94,14 @@ h2 {
     border-radius: 30px;
   }
   
-/*Alinhando a section "cpurse-content" para o meio da página*/
+  /*Inserindo margem para o texto do conteudo do curso e alinhando ele ao centro da página.*/
 
 #course-content .modules-list {
     margin: 24px 0;
   }
   
+  #course-content {
+    width: 800px;
+    text-align: center;
+  } 
   
