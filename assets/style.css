@@ -104,4 +104,27 @@ h2 {
     width: 800px;
     text-align: center;
   } 
+
+
+
+    /*Alterando a fonte "Módulo, para azul, para destacar a visualização. "*/
+    #course-content .modules-list .module span {
+      color: #33A8DB;
+    }
+    
+
+
+  /*Listando os módulos do curso, inserindo os efeitos de imagem*/
+
+  #course-content .modules-list .module {
+    color: white;
+    width: 530px;
+    margin: 0 auto 24px;
+    border: 1px solid #33A8DB;
+    background-color: #252525;
+    padding: 16px;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+  }
   
+ 
