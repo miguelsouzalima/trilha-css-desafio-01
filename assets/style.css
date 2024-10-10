@@ -128,3 +128,14 @@ h2 {
   }
   
  /* Trabalhando nas linhas de estilização da parte "Transforme o Mundo" */ 
+
+ #transform-world {
+  height: 560px;
+  background-size: cover;
+  background-image: url("./images/woman-code.png");
+  background-attachment: fixed;
+  border-top: 1px solid #33A8DB80;
+  border-bottom: 1px solid #33A8DB80;
+  padding: 200px;
+}
+
