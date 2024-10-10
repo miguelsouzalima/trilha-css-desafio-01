@@ -168,3 +168,9 @@ h2 {
   background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
   border-top: 1px solid #33A8DB80;
 }
+
+
+ /*Inserindo o logotipo da DIO e formatando ele a 300 Pixels de Largura */
+ footer .dio-logo {
+  width: 300px;
+}
